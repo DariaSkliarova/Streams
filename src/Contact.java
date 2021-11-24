@@ -1,5 +1,3 @@
-import java.util.Date;
-
 public class Contact {
     private String name;
     private String surname;
